@@ -57,7 +57,7 @@
  
 <p align="center">
 <!-- Typing SVG banner -->
-<img src="[https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&center=true&vCenter=true&a…](https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Generative+AI+Explorer;Building+Cool+Projects;Always+Learning+New+Tech%22)"/>
+<img src="https://readme-typing-svg.herokuapp.com/?size=24&color=00FF00&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Generative+AI+Explorer;Building+Cool+Projects;Always+Learning+New+Tech"/>
 </p>
  
 <p align="center">
